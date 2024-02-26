@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.31d6cfe0.css",
-    "main.js": "/static/js/main.5f49393c.js",
-    "static/js/453.b418f484.chunk.js": "/static/js/453.b418f484.chunk.js",
-    "index.html": "/index.html",
-    "main.5f49393c.js.map": "/static/js/main.5f49393c.js.map",
-    "453.b418f484.chunk.js.map": "/static/js/453.b418f484.chunk.js.map"
+    "main.css": "/react-half-circle-progress-bar/static/css/main.31d6cfe0.css",
+    "main.js": "/react-half-circle-progress-bar/static/js/main.885cab05.js",
+    "static/js/453.b418f484.chunk.js": "/react-half-circle-progress-bar/static/js/453.b418f484.chunk.js",
+    "index.html": "/react-half-circle-progress-bar/index.html",
+    "main.885cab05.js.map": "/react-half-circle-progress-bar/static/js/main.885cab05.js.map",
+    "453.b418f484.chunk.js.map": "/react-half-circle-progress-bar/static/js/453.b418f484.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.5f49393c.js"
+    "static/js/main.885cab05.js"
   ]
 }
